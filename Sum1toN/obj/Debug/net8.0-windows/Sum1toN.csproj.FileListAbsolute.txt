@@ -1,0 +1,17 @@
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\bin\Debug\net8.0-windows\Sum1toN.exe
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\bin\Debug\net8.0-windows\Sum1toN.deps.json
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\bin\Debug\net8.0-windows\Sum1toN.runtimeconfig.json
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\bin\Debug\net8.0-windows\Sum1toN.dll
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\bin\Debug\net8.0-windows\Sum1toN.pdb
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\Sum1toN.Form1.resources
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\Sum1toN.csproj.GenerateResource.cache
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\Sum1toN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\Sum1toN.AssemblyInfoInputs.cache
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\Sum1toN.AssemblyInfo.cs
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\Sum1toN.csproj.CoreCompileInputs.cache
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\Sum1toN.sourcelink.json
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\Sum1toN.dll
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\refint\Sum1toN.dll
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\Sum1toN.pdb
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\Sum1toN.genruntimeconfig.cache
+C:\Users\minh\Desktop\MyCourse\.net\winform\Sum1toN\obj\Debug\net8.0-windows\ref\Sum1toN.dll
