@@ -2,6 +2,7 @@ namespace SimpleCalculator
 {
     public partial class Form1 : Form
     {
+        float result;
         public Form1()
         {
             InitializeComponent();
@@ -77,31 +78,53 @@ namespace SimpleCalculator
 
         private void dot_Click(object sender, EventArgs e)
         {
-            screenCALC.Text = screenCALC.Text + '.';
+            if (screenCALC.Text.Contains(".") == false)
+            {
+                //result = float.Parse(screenCALC.Text);
+                screenCALC.Text += ".";
+            }
         }
 
         private void button13_Click(object sender, EventArgs e)
         {
-            screenCALC.Text = screenCALC.Text + '+';
+            if( screenCALC.Text.Contains("+") == false)
+            {
+                screenCALC.Text += "+";
+            }
 
         }
 
         private void button14_Click(object sender, EventArgs e)
         {
-            screenCALC.Text = screenCALC.Text + '-';
+            if (screenCALC.Text.Contains("-") == false)
+            {
+                screenCALC.Text += "-";
+            }
 
         }
 
         private void button15_Click(object sender, EventArgs e)
         {
-            screenCALC.Text = screenCALC.Text + '*';
+            if (screenCALC.Text.Contains("*") == false)
+            {
+                screenCALC.Text += "*";
+            }
 
         }
 
         private void button16_Click(object sender, EventArgs e)
         {
-            screenCALC.Text = screenCALC.Text + '/';
+            if (screenCALC.Text.Contains("/") == false)
+            {
+                screenCALC.Text += "/";
+            }
 
+
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            screenCALC.Text = "";
         }
     }
 }

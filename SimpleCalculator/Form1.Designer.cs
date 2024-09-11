@@ -224,6 +224,7 @@
             button18.TabIndex = 5;
             button18.Text = "C";
             button18.UseVisualStyleBackColor = true;
+            button18.Click += button18_Click;
             // 
             // button17
             // 
