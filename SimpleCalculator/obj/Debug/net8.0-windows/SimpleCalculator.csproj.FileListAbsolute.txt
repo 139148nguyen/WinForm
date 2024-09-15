@@ -3,7 +3,6 @@ C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\bin\Debug\net8.0-wi
 C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.runtimeconfig.json
 C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.dll
 C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.pdb
-C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.Form1.resources
 C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.csproj.GenerateResource.cache
 C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.AssemblyInfoInputs.cache
@@ -15,3 +14,4 @@ C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\obj\Debug\net8.0-wi
 C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.pdb
 C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.genruntimeconfig.cache
 C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\obj\Debug\net8.0-windows\ref\SimpleCalculator.dll
+C:\Users\minh\Desktop\MyCourse\.net\winform\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.Calc.resources
